@@ -1,5 +1,7 @@
 # app_runner
 
+Frozen as reference for native rewrite — see `app-runner-ios` and `app-runner-android`.
+
 A new Flutter project.
 
 ## Getting Started
